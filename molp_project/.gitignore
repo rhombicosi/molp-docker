@@ -1,0 +1,9 @@
+/.idea
+/molp_app/media
+/data
+db.sqlite3
+.env
+.env.sample
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir

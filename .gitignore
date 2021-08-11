@@ -1,0 +1,14 @@
+.vscode
+/molp_project/.idea
+/molp_project/molp_app/media
+/data
+/molp_project/db.sqlite3
+.env
+.env.sample
+.env.backup
+/molp_project/.env
+/molp_project/.env.sample
+/molp_project/.env.backup
+/molp_projectcelerybeat-schedule.bak
+/molp_projectcelerybeat-schedule.dat
+/molp_projectcelerybeat-schedule.dir
