@@ -4,7 +4,6 @@
 /data
 /molp_project/db.sqlite3
 .env
-.env.sample
 .env.backup
 /molp_project/.env
 /molp_project/.env.sample
