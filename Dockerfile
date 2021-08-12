@@ -27,7 +27,7 @@ RUN python -m venv /py && \
     adduser --disabled-password --no-create-home molp && \
     mkdir -p /vol/web/static && \
     mkdir -p /vol/web/media && \
-    chown -R molp_project:molp_project /vol && \
+    chown -R molp:molp /vol && \
     chmod -R 755 /vol && \
     chmod -R +x /scripts
 
