@@ -7,7 +7,6 @@
 .env.backup
 /molp_project/.env
 /molp_project/.env.sample
-/molp_project/.env.backup
 /molp_projectcelerybeat-schedule.bak
 /molp_projectcelerybeat-schedule.dat
 /molp_projectcelerybeat-schedule.dir
